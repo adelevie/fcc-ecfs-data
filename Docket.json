@@ -1,0 +1,417 @@
+{ "results": [
+{
+  "bureau_name": "Wireline Competition Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-12-26T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "49",
+  "number": "12-375",
+  "prepared_by": "Aleta.Bowers",
+  "status": "Open",
+  "subject": "Implementation of the Pay Telephone Reclassification and Compensation Provisions of the Telecommunications Act of 1996 et al.",
+  "total_filings": "75",
+  "createdAt": "2013-01-29T23:31:34.991Z",
+  "updatedAt": "2013-03-13T23:41:34.698Z",
+  "objectId": "nwzgZVTGhg"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-06-07T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "0",
+  "number": "12-149",
+  "status": "Open",
+  "subject": "Comcast Cable Commnications LLC",
+  "total_filings": "5",
+  "createdAt": "2013-01-30T02:54:35.889Z",
+  "updatedAt": "2013-03-13T23:41:44.611Z",
+  "objectId": "T5u5hiJkwI"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-10-18T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "0",
+  "number": "12-308",
+  "prepared_by": "Claudia.Tillery",
+  "status": "Open",
+  "subject": "Comcast of Potomac LLC",
+  "total_filings": "7",
+  "createdAt": "2013-01-30T02:54:53.078Z",
+  "updatedAt": "2013-03-13T23:41:54.928Z",
+  "objectId": "gUr5P7Bs1M"
+},
+{
+  "bureau_name": "Wireline Competition Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-12-11T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "101",
+  "number": "12-353",
+  "prepared_by": "Myrva.Charles",
+  "status": "Open",
+  "subject": "Comment Sought on the Technological Transition of the Nations Communications Infrastructure",
+  "total_filings": "204",
+  "createdAt": "2013-01-30T02:55:08.278Z",
+  "updatedAt": "2013-03-13T23:42:04.994Z",
+  "objectId": "bFGUPDfYG7"
+},
+{
+  "bureau_name": "Wireline Competition Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2010-06-29T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "5",
+  "number": "10-132",
+  "status": "Open",
+  "subject": "Plleading cycle established for comments on review of Wireline Competition Bureau Data Practices.",
+  "total_filings": "80",
+  "createdAt": "2013-01-30T02:55:35.752Z",
+  "updatedAt": "2013-03-13T23:42:17.160Z",
+  "objectId": "f3wKgSKUXM"
+},
+{
+  "bureau_name": "General (Multiple Bureaus)",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-09-26T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "149",
+  "number": "12-268",
+  "prepared_by": "Rosa.Bell",
+  "status": "Open",
+  "subject": "Expanding the Economic and Innovation Opportunities of Spectrum Through Incentive Auctions",
+  "total_filings": "488",
+  "createdAt": "2013-01-30T02:55:58.505Z",
+  "updatedAt": "2013-03-13T23:42:31.962Z",
+  "objectId": "wLfFBolofu"
+},
+{
+  "bureau_name": "Wireless Telecommunications Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-09-26T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "9",
+  "number": "12-269",
+  "prepared_by": "Rosa.Bell",
+  "status": "Open",
+  "subject": "Policies Regarding Mobile Spectrum Holdings",
+  "total_filings": "62",
+  "createdAt": "2013-02-05T17:45:29.966Z",
+  "updatedAt": "2013-03-13T23:42:35.016Z",
+  "objectId": "MENP4CjcKm"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-03-20T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "3",
+  "number": "12-68",
+  "status": "Open",
+  "subject": "Revision Of The Commission's Program Access Rules",
+  "total_filings": "217",
+  "createdAt": "2013-02-05T17:46:01.740Z",
+  "updatedAt": "2013-03-13T23:42:45.521Z",
+  "objectId": "hf9ujK3GsS"
+},
+{
+  "bureau_name": "International Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-11-28T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "29",
+  "number": "12-343",
+  "prepared_by": "Adrienne.Downs",
+  "status": "Open",
+  "subject": "Softbank/Sprint",
+  "total_filings": "67",
+  "createdAt": "2013-02-05T17:46:15.075Z",
+  "updatedAt": "2013-03-13T23:42:54.872Z",
+  "objectId": "wDStSwtatN"
+},
+{
+  "bureau_name": "Wireless Telecommunications Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-12-12T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "107",
+  "number": "12-357",
+  "prepared_by": "Aleta.Bowers",
+  "status": "Open",
+  "subject": "Service Rules for Advanced Wireless Services H Block et al.",
+  "total_filings": "320",
+  "createdAt": "2013-02-05T17:46:27.321Z",
+  "updatedAt": "2013-03-13T23:43:05.553Z",
+  "objectId": "Cihj4YBIak"
+},
+{
+  "bureau_name": "Office of Engineering and Technology",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-11-16T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "0",
+  "number": "RM-11683",
+  "prepared_by": "Nancy.Brooks",
+  "status": "Open",
+  "subject": "Developing Operating Parameters for Terrestrial Use of the 1526-1536 MHz Portion of L-Band",
+  "total_filings": "337",
+  "createdAt": "2013-02-05T18:19:27.480Z",
+  "updatedAt": "2013-03-13T23:43:16.971Z",
+  "objectId": "11DYATsczM"
+},
+{
+  "bureau_name": "International Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-11-16T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "3",
+  "number": "12-340",
+  "prepared_by": "CurTrisha.Banks",
+  "status": "Open",
+  "subject": "LIGHTSQUARED REQUEST TO MODIFY ITS ATC AUTHORIZATION",
+  "total_filings": "417",
+  "createdAt": "2013-02-05T18:19:43.086Z",
+  "updatedAt": "2013-03-13T23:43:32.054Z",
+  "objectId": "SCQvPpJX73"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-04-24T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "23",
+  "number": "12-107",
+  "status": "Open",
+  "subject": "MEDIA BUREAU AND CONSUMER AND GOVERNMENTAL AFFAIRS BUREAU SEEK COMMENT ON SECOND VPAAC REPORT: VIDEO DESCRIPTION AND ACCESS TO EMERGENCY INFORMATION",
+  "total_filings": "85",
+  "createdAt": "2013-02-05T18:22:28.999Z",
+  "updatedAt": "2013-03-13T23:43:38.138Z",
+  "objectId": "q6CEbq9Vhl"
+},
+{
+  "bureau_name": "Wireless Telecommunications Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2011-11-03T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "0",
+  "number": "11-186",
+  "status": "Open",
+  "subject": "Wireless Telecommunications Bureau seeks comments on The State of Mobile Wireless Competition",
+  "total_filings": "266",
+  "createdAt": "2013-02-05T22:13:43.375Z",
+  "updatedAt": "2013-03-13T23:43:49.021Z",
+  "objectId": "xVh37dppEP"
+},
+{
+  "bureau_name": "General (Multiple Bureaus)",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-09-20T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "8",
+  "number": "12-264",
+  "prepared_by": "Nancy.Brooks",
+  "status": "Open",
+  "subject": "Matters Related to Measuring Broadband America Program and Performance Measurement.",
+  "total_filings": "36",
+  "createdAt": "2013-02-05T22:19:24.787Z",
+  "updatedAt": "2013-03-13T23:43:57.313Z",
+  "objectId": "8BtF5kMCAu"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-12-14T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "2",
+  "number": "12-366",
+  "prepared_by": "Claudia.Tillery",
+  "status": "Open",
+  "subject": "Central Ohio Association of Christian Broadcasters Inc. (WOCB-CD)",
+  "total_filings": "8",
+  "createdAt": "2013-02-05T22:24:11.741Z",
+  "updatedAt": "2013-03-13T23:44:08.270Z",
+  "objectId": "x72KVvDc5N"
+},
+{
+  "bureau_name": "International Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-12-27T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "7",
+  "number": "12-376",
+  "prepared_by": "Rosa.Bell",
+  "status": "Open",
+  "subject": "Commission's Rules to Govern the Use of Earth Stations",
+  "total_filings": "11",
+  "createdAt": "2013-02-05T22:30:55.402Z",
+  "updatedAt": "2013-03-13T23:44:20.583Z",
+  "objectId": "t6ubYc4QdM"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-11-07T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "5",
+  "number": "12-328",
+  "prepared_by": "Claudia.Tillery",
+  "status": "Open",
+  "subject": "CHARTER COMMUNICATIONS INC. FILES REQUEST FOR WAIVER OF 47 C.F.R. Section 76.1204(a)(1) WITH THE COMMISSION",
+  "total_filings": "19",
+  "createdAt": "2013-02-05T22:33:30.493Z",
+  "updatedAt": "2013-03-13T23:44:28.718Z",
+  "objectId": "2ECsTtLY0K"
+},
+{
+  "bureau_name": "Wireline Competition Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2011-07-07T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "0",
+  "name_of_party": "PAC-WEST Telecomm Inc.",
+  "number": "11-115",
+  "prepared_by": "Scott H. Angstreich                            Attorney on 7/7/11",
+  "status": "Open",
+  "subject": "Pleading cycle estabished for comments on  PAC-WEST Telecomm Inc. and Verizon petitions \r\nfor Declaratory Ruling. .",
+  "total_filings": "17",
+  "createdAt": "2013-02-06T19:25:54.434Z",
+  "updatedAt": "2013-03-13T23:44:39.262Z",
+  "objectId": "QDbmx11lXz"
+},
+{
+  "bureau_name": "Office of Managing Director",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2012-07-16T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "13",
+  "number": "12-201",
+  "prepared_by": "Rosa.Bell",
+  "status": "Open",
+  "subject": "Procedures for Assessment and Collection of Regulatory Fees",
+  "total_filings": "46",
+  "createdAt": "2013-02-12T21:31:21.425Z",
+  "updatedAt": "2013-03-13T23:44:54.982Z",
+  "objectId": "Ht4TRPRZa7"
+},
+{
+  "bureau_name": "Wireless Telecommunications Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2010-10-13T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "28",
+  "number": "10-208",
+  "status": "Open",
+  "subject": "In the Matter of Universal Service Reform Mobility Fund.",
+  "total_filings": "1378",
+  "createdAt": "2013-02-12T21:31:47.555Z",
+  "updatedAt": "2013-03-13T23:45:00.220Z",
+  "objectId": "Lvw8gykLYm"
+},
+{
+  "number": "13-39",
+  "createdAt": "2013-03-06T22:33:58.099Z",
+  "updatedAt": "2013-03-06T22:33:58.099Z",
+  "objectId": "0RWWwtHRy8"
+},
+{
+  "bureau_name": "Wireline Competition Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2003-04-30T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "32",
+  "number": "03-109",
+  "rule_section": "54.401",
+  "status": "Open",
+  "subject": "In the Matter of Lifeline and Link-Up",
+  "total_filings": "4591",
+  "createdAt": "2013-02-12T21:32:27.689Z",
+  "updatedAt": "2013-03-13T23:45:17.925Z",
+  "objectId": "vhVCKNSRzl"
+},
+{
+  "bureau_name": "Wireline Competition Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2006-06-21T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "11",
+  "number": "06-122",
+  "status": "Open",
+  "subject": "In the Matter of Universal Service Contribution Methodology Federal-State Joint Board on \r\nUniversal Service 1998 Biennial Regulatory Review.  ..  ..",
+  "total_filings": "1999",
+  "createdAt": "2013-02-12T21:34:26.148Z",
+  "updatedAt": "2013-03-13T23:45:22.286Z",
+  "objectId": "Yg1USeDr6N"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2007-02-16T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "0",
+  "number": "07-29",
+  "status": "Open",
+  "subject": "In the Matter of: Implementation of the Cable Television Consumer Protection and Competition\r\nAct of 1992. Development of Competition and Diversity in Video Programming Distribution:\r\nsection 628(c)(5) of the Communications Act. .",
+  "total_filings": "288",
+  "createdAt": "2013-02-12T21:35:31.029Z",
+  "updatedAt": "2013-03-13T23:45:30.804Z",
+  "objectId": "54e4pzmZfC"
+},
+{
+  "bureau_name": "Media Bureau",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2011-06-17T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "0",
+  "name_of_party": "Comcast Cable Communications .",
+  "number": "11-104",
+  "prepared_by": "Gregory Roger Babyak                          Attorney on 6/17/11",
+  "status": "Open",
+  "subject": "Media Bureau Announces filing of complaint by Bloomberg L.P. against Comcast Cable \r\nCommunications.",
+  "total_filings": "131",
+  "createdAt": "2013-02-19T21:36:47.525Z",
+  "updatedAt": "2013-03-13T23:45:41.409Z",
+  "objectId": "xLDSjNQcB5"
+},
+{
+  "bureau_name": "Office of Managing Director",
+  "date_created": {
+    "__type": "Date",
+    "iso": "2008-05-08T00:00:00.000Z"
+  },
+  "filings_in_last_30_days": "12",
+  "number": "08-65",
+  "status": "Open",
+  "subject": "In the Matter o f Assessment and Collection of Regulatory Fee for Fiscal Year 2008.",
+  "total_filings": "189",
+  "createdAt": "2013-02-12T21:31:12.814Z",
+  "updatedAt": "2013-03-13T23:45:50.524Z",
+  "objectId": "roArkrtYQZ"
+}
+] }
