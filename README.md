@@ -2,7 +2,7 @@
 
 ## What?
 
-This repo contains data from the [Federal Communication Commission's Electronic Comment Filing System](http://apps.fcc.gov/ecfs/). 
+This repo contains data from the [Federal Communication Commission's Electronic Comment Filing System](http://apps.fcc.gov/ecfs/). The data was most recently updated on March 13, 2013.
 
 ## Why?
 
