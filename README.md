@@ -10,11 +10,11 @@ This repo contains data from the [Federal Communication Commission's Electronic 
 
 2. This is a good use-case to experiment with the idea that a Github repo can be used as an open data API.
 
-3. I already have this data (it powers Dokket.com), and publishing it is no sweat.
+3. I already have this data (it powers [Dokket.com](http://dokket.com)), and publishing it is no sweat.
 
 ## How?
 
-All data is JSON-encoded. Because it's just an export from a Parse.com database, the format should be similar to MongoDB. Each datatype is in its own file with the format `Datatype.json`.
+All data is JSON-encoded. Because it's just an export from a [Parse.com](http://parse.com) database, the format should be similar to MongoDB. Each datatype is in its own file with the format `Datatype.json`.
 
 To get the data from one of these files, parse the JSON and get the value of the `"results"` key.
 
