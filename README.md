@@ -14,7 +14,7 @@ This repo contains data from the [Federal Communication Commission's Electronic 
 
 ## How?
 
-All data is JSON-encoded. Because it's just an export from a Parse.com database, the format should be similar to MongoDB. Each datatype is in its own file with the format `Datetype.json`.
+All data is JSON-encoded. Because it's just an export from a Parse.com database, the format should be similar to MongoDB. Each datatype is in its own file with the format `Datatype.json`.
 
 To get the data from one of these files, parse the JSON and get the value of the `"results"` key.
 
