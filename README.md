@@ -85,4 +85,4 @@ To get the actual text of a filing, view the URLs in the `document_urls` field. 
 
 ## Warranty
 
-There is zero warranty for this data. Moreover, this data is far from comprehensive.
+There is no warranty for this data. Moreover, this data is far from comprehensive.
