@@ -82,3 +82,7 @@ A `Filing` belongs to a `Docket` and represents a filing made by a party (or par
 ```
 
 To get the actual text of a filing, view the URLs in the `document_urls` field. These are almost always PDFs.
+
+## Warranty
+
+There is zero warranty for this data. Moreover, this data is far from comprehensive.
